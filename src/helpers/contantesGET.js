@@ -1,7 +1,7 @@
 const TOKEN =
-    "Bearer BQBK3B4d-L-njmilfG4gSLj04h8-r3ImqTEHDYlOLrjZDXp0kRPpJlTzYDSzPD0M0jVuxUbvHZ3tfsw_hO74p3YkhkzXB619avouj6ahj4O6XwAdvsCBVn0vcI5Y1cYJ7GTuzo_OnbN-hOz6X5EPz6zseHMntrQDkbC0sAlO9cAs";
+  "Bearer BQD2lyN2g4Au7yItBPBR-S8GLBbAuvvVMKCiwoOXQoH6Dw_ZIMDcS2A2ZVrGonoh72DPPIML--bG6a49NWwzupsuaKUfwU59cEQTuHjv9hla0zuNl6IqATVcB4nUulWwlIJMU2DT513R_WZ7o38EoEAwevcWRImHpNvwtu5YLbPE";
 
-    export const PETICION={
-        method:"GET",
-        headers:{Authorization:TOKEN}
-    }
+export const PETICION = {
+  method: "GET",
+  headers: { Authorization: TOKEN },
+};
